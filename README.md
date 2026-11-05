@@ -1,4 +1,4 @@
-# 🤖 JARVIS Mini
+# JARVIS Mini
 
 A 10cm AI robot. Fully autonomous.
 
@@ -8,11 +8,11 @@ I wanted to make this robot feel more like a companion rather than just another 
 
 The challenge was making all of these features fit onto a 10cm robot.
 
-Status: 🟡 Research and CAD
+Status: Research and CAD
 
 Program: Hack Club Forge
 
-## 🎯 Objectives
+##  Objectives
 
 JARVIS Mini will be designed to do the following:
 
@@ -38,7 +38,7 @@ JARVIS Mini will be designed to do the following:
 
 All these features are planned and are not yet implemented.
 
-## 🧠 Hardware
+## Hardware
 
 I will be using a Raspberry Pi as the main computer.
 
@@ -82,7 +82,7 @@ This will be used to control the screen, sensors and movement, sound and connect
 
 The specific models, quantity and specs will be decided once we have checked the size and electrical compatibility.
 
-## 📐 Design
+## Design
 
 One of the largest issues is making a moving robot so small.
 
@@ -110,7 +110,7 @@ I am looking into where to place the servos, mountings, internal space, movement
 
 The casing needs to be easy to access for repairs and improvements.
 
-## 💻 Software
+## Software
 
 This robot will be mainly coded in Python.
 
@@ -140,7 +140,7 @@ The software will include:
 
 The LLM will be connected via an external service as the Raspberry Pi Zero 2 W is not suitable for running a large chatbot.
 
-## 🔧 Progress
+## Progress
 
 ### Phase 1: Hardware Research
 
@@ -166,7 +166,7 @@ Not started.
 
 Not started. No hardware built and tested.
 
-## 🧪 Challenges
+## Challenges
 
 Challenges to overcome include:
 
@@ -186,7 +186,7 @@ Challenges to overcome include:
 
 As I learn more the design will be updated.
 
-## 📋 To Do List
+## To Do List
 
 [ ] Initial robot design defined.
 
@@ -212,7 +212,7 @@ As I learn more the design will be updated.
 
 [ ] Test robot.
 
-## 🤖 AI Use
+## AI Use
 
 I have used ChatGPT to help with initial ideas for features, researching components, understanding engineering concepts, creating initial designs and a STEP reference.
 
