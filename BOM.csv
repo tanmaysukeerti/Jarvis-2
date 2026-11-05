@@ -1,0 +1,74 @@
+
+# JARVIS Mini — Bill of Materials
+
+## Project
+10 cm Raspberry Pi-powered walking AI companion robot.
+
+## Electronics
+
+| Component | Model / Specification | Qty |
+|---|---|---|
+| Main computer | Raspberry Pi Zero 2 W | 1 |
+| Storage | 32GB microSD card | 1 |
+| Face display | Small IPS LCD, exact model TBD | 1 |
+| Camera | Raspberry Pi-compatible camera | 1 |
+| Motors | Metal-geared micro servos, TBD | 4-6 |
+| Servo driver | PCA9685 | 1 |
+| Microphone | I2S microphone, TBD | 1 |
+| Speaker | Miniature speaker | 1 |
+| Audio amplifier | I2S amplifier | 1 |
+| Distance sensor | VL53L0X or equivalent | 1 |
+| Edge sensors | Downward-facing proximity sensors | 2-3 |
+| IMU | MPU6050 or equivalent | 1 |
+| Touch sensor | Capacitive touch sensor | 1 |
+
+## Power System
+
+| Component | Specification | Qty |
+|---|---|---|
+| Battery | Protected rechargeable battery, TBD | 1 |
+| Voltage regulation | Sized for Pi and servo loads | TBD |
+| Charging circuit | Compatible battery charger | 1 |
+| Charging contacts | Pogo pins and mating pads | 1 set |
+| USB-C input | Dock power connection | 1 |
+
+## Mechanical Components
+
+| Component | Description |
+|---|---|
+| Head shell | Custom 3D printed |
+| Torso | Custom 3D printed |
+| Legs | Custom servo-driven mechanism |
+| Feet | Printed parts with rubber grips |
+| Servo brackets | Custom CAD |
+| Charging dock | Custom 3D printed |
+| Fasteners | Screws, inserts, bearings |
+| Wiring | Connectors and flexible wires |
+
+## Pricing and Suppliers
+
+To be completed using actual Indian supplier listings.
+
+Potential suppliers:
+- Robu.in
+- Robocraze
+- ElectronicsComp
+- Robokits India
+
+Each selected item will need:
+- Exact product model
+- Unit price in INR
+- Quantity
+- Supplier URL
+- Physical dimensions
+- Electrical specifications
+
+## Current Status
+
+This is a preliminary BOM.
+
+Final component choices, prices, servo quantities,
+battery specifications, and mechanical compatibility
+are pending CAD and engineering validation.
+
+No physical components have been purchased yet.
